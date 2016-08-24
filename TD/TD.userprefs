@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Shaders\Outline_Diffuse.shader">
+    <Files>
+      <File FileName="Temp\Compiled-Outline_Diffuse.shader" Line="15" Column="1" />
+      <File FileName="Assets\Resources\Shaders\Outline_Diffuse.shader" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
